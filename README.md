@@ -1,5 +1,5 @@
 # Referral-System
-#Spring Boot
+# Spring Boot
 Multi-Level Referral and Earning System with Live Data Updates
 System Overview:
 The system enables users to refer up to 8 people directly and facilitates profit sharing
